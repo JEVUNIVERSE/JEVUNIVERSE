@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning ... JavaScript 
 - 💞️ I’m looking to collaborate on building a responsive app
-- 📫 How to reach me ...
+- 📫 How to reach me ...jevuniverse@gmail.com
 
 <!---
 JEVUNIVERSE/JEVUNIVERSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
