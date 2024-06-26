@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @JEVUNIVERSE
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning ... JavaScript 
-- 💞️ I’m looking to collaborate on building a responsive app
-- 📫 How to reach me ...jevuniverse@gmail.com
+ Hi, I’m Johnson Victor Ehimare
+💡Software Engineer💻|Workspace Creator | Mobile Dev| AI Enthusiast | Coding the future!🚀 #Tech #startup #AI #flutter
+
 
 <!---
 JEVUNIVERSE/JEVUNIVERSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
